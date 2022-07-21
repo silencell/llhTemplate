@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.silencell.llhtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.silencell.llhtemplate.MyBundle
 
 class MyApplicationService {
 
